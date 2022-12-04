@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	62306	234	476174	1788	2.6	74.4
 Saarlouis (Landkreis)	Saarland	193661	98282	292	507495	1507	3.4	82.8	
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	67099	220	476014	1560	3.1	83.6	
 St. Wendel (Landkreis)	Saarland	86170	44054	188	511245	2181	0.0	75.0	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	90585	433	347633	1661	4.2	91.8	10.5
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	108166	461	340971	1453	4.2	91.8	14.2
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	97361	386	356388	1412	4.2	91.8	11.1
-Berlin Pankow (Bezirk)	Berlin	404795	156867	340	387522	839	4.2	91.8	15.6
-Berlin Neukölln (Bezirk)	Berlin	320204	122704	553	383205	1727	4.2	91.8	16.2
-Berlin Lichtenberg (Bezirk)	Berlin	293139	107672	382	367306	1303	4.2	91.8	21.6
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	97392	411	354342	1495	4.2	91.8	13.2
-Berlin Spandau (Bezirk)	Berlin	240542	88924	345	369681	1434	4.2	91.8	24.8
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	101064	569	345807	1946	4.2	91.8	15.1
-Berlin Mitte (Bezirk)	Berlin	377735	151579	419	401283	1109	4.2	91.8	10.6
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	118199	224	421130	798	4.2	91.8	51.0
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	125701	625	367240	1825	4.2	91.8	15.0
+Berlin Reinickendorf (Bezirk)	Berlin	260576	90585	433	347633	1661	4.3	91.8	10.5
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	108166	461	340971	1453	4.3	91.8	14.2
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	97361	386	356388	1412	4.3	91.8	11.1
+Berlin Pankow (Bezirk)	Berlin	404795	156867	340	387522	839	4.3	91.8	15.6
+Berlin Neukölln (Bezirk)	Berlin	320204	122704	553	383205	1727	4.3	91.8	16.2
+Berlin Lichtenberg (Bezirk)	Berlin	293139	107672	382	367306	1303	4.3	91.8	21.6
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	97392	411	354342	1495	4.3	91.8	13.2
+Berlin Spandau (Bezirk)	Berlin	240542	88924	345	369681	1434	4.3	91.8	24.8
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	101064	569	345807	1946	4.3	91.8	15.1
+Berlin Mitte (Bezirk)	Berlin	377735	151579	419	401283	1109	4.3	91.8	10.6
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	118199	224	421130	798	4.3	91.8	51.0
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	125701	625	367240	1825	4.3	91.8	15.0
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	27476	188	379183	2594	4.5	79.1	9.4
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	48499	333	493081	3385	4.8	90.5	26.5
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	26061	218	459799	3846	0.0	83.3	22.8
@@ -315,7 +315,7 @@ Bodenseekreis (Landkreis)	Baden-Württemberg	218885	90361	382	412824	1745	1.9	51
 Ravensburg (Landkreis)	Baden-Württemberg	287011	127982	232	445913	808	0.0	67.2	
 Sigmaringen (Landkreis)	Baden-Württemberg	131725	65753	189	499168	1434	0.0	100.0	28.5
 Ingolstadt (Kreisfreie Stadt)	Bayern	138016	66757	266	483690	1927	6.5	80.4	
-München (Kreisfreie Stadt)	Bayern	1487708	698750	2374	469682	1595	3.1	95.9	
+München (Kreisfreie Stadt)	Bayern	1487708	698750	2374	469682	1595	3.2	95.8	
 Rosenheim (Kreisfreie Stadt)	Bayern	63508	33994	144	535271	2267	8.6	100.0	
 Altötting (Landkreis)	Bayern	112116	60060	378	535695	3371	4.2	100.0	12.2
 Berchtesgadener Land (Landkreis)	Bayern	106389	53395	210	501884	1973	0.0	68.4	
@@ -324,7 +324,7 @@ Dachau (Landkreis)	Bayern	155449	82919	258	533416	1659	6.5	100.0
 Ebersberg (Landkreis)	Bayern	144562	73365	308	507498	2130	0.0	100.0	
 Eichstätt (Landkreis)	Bayern	133634	67705	148	506645	1107	4.5	88.6	28.3
 Erding (Landkreis)	Bayern	139622	75280	219	539170	1568	0.0	93.8	
-Freising (Landkreis)	Bayern	181144	89330	247	493143	1363	8.3	66.7	
+Freising (Landkreis)	Bayern	181144	89330	247	493143	1363	8.3	91.7	
 Fürstenfeldbruck (Landkreis)	Bayern	218579	105376	257	482095	1175	10.0	100.0	27.6
 Garmisch-Partenkirchen (Landkreis)	Bayern	88232	39418	170	446754	1926	0.0	88.1	
 Landsberg am Lech (Landkreis)	Bayern	121466	56922	124	468624	1020	0.0	75.0	
