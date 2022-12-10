@@ -257,7 +257,7 @@ Ludwigshafen am Rhein (Kreisfreie Stadt)	Rheinland-Pfalz	172145	66314	463	385221
 Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217556	96809	274	444984	1259	6.7	98.1	
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53491	21944	77	410237	1439	10.5	89.5	
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40054	15290	113	381734	2821	6.2	75.0	
-Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50565	22475	130	444477	2570	8.0	80.0	
+Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50565	22475	130	444477	2570	8.0	88.0	
 Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	37279	174	444591	2075	0.0	88.5	13.5
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34091	14503	39	425420	1143	0.0	60.0	
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	131330	55526	242	422797	1842	0.0	100.0	
@@ -272,7 +272,7 @@ Mainz-Bingen (Landkreis)	Rheinland-Pfalz	212420	95666	321	450362	1511	20.0	100.0
 Südwestpfalz (Landkreis)	Rheinland-Pfalz	94819	38924	165	410508	1740	0.0	28.6	
 Stuttgart (Stadtkreis)	Baden-Württemberg	626275	246843	750	394144	1197	6.7	86.9	
 Böblingen (Landkreis)	Baden-Württemberg	393195	179169	525	455674	1335	0.0	78.0	34.4
-Esslingen (Landkreis)	Baden-Württemberg	533388	237227	971	444755	1820	2.4	92.9	47.8
+Esslingen (Landkreis)	Baden-Württemberg	533388	237227	971	444755	1820	2.4	92.8	47.8
 Göppingen (Landkreis)	Baden-Württemberg	259046	110237	416	425549	1605	2.5	80.0	17.2
 Ludwigsburg (Landkreis)	Baden-Württemberg	544679	226777	755	416349	1386	0.0	50.0	
 Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427316	192569	694	450647	1624	3.2	74.2	
@@ -281,7 +281,7 @@ Heilbronn (Landkreis)	Baden-Württemberg	347798	163115	492	468993	1414	4.2	89.6
 Hohenlohekreis (Landkreis)	Baden-Württemberg	113318	53942	197	476023	1738	0.0	71.4	43.5
 Schwäbisch Hall (Landkreis)	Baden-Württemberg	199398	85052	372	426543	1865	0.0	83.3	
 Main-Tauber-Kreis (Landkreis)	Baden-Württemberg	132956	60325	229	453721	1722	1.8	71.4	
-Heidenheim (Landkreis)	Baden-Württemberg	132958	61934	356	465816	2677	0.0	68.2	8.3
+Heidenheim (Landkreis)	Baden-Württemberg	132958	61934	356	465816	2677	0.0	77.3	8.3
 Ostalbkreis (Landkreis)	Baden-Württemberg	315009	147881	615	469450	1952	1.3	85.5	21.2
 Baden-Baden (Stadtkreis)	Baden-Württemberg	55527	23057	124	415239	2233	5.0	65.0	
 Karlsruhe (Stadtkreis)	Baden-Württemberg	306502	127066	395	414568	1288	1.9	91.3	49.7
@@ -295,7 +295,7 @@ Pforzheim (Stadtkreis)	Baden-Württemberg	125529	57887	342	461144	2724	0.0	91.7
 Calw (Landkreis)	Baden-Württemberg	160686	69012	343	429483	2134	0.0	95.2	33.8
 Enzkreis (Landkreis)	Baden-Württemberg	200237	92719	356	463046	1777	10.0	80.0	28.6
 Freudenstadt (Landkreis)	Baden-Württemberg	119183	54877	262	460443	2198	0.0	100.0	27.7
-Freiburg im Breisgau (Stadtkreis)	Baden-Württemberg	231848	102671	303	442837	1306	4.8	86.7	
+Freiburg im Breisgau (Stadtkreis)	Baden-Württemberg	231848	102671	303	442837	1306	4.6	83.2	
 Breisgau-Hochschwarzwald (Landkreis)	Baden-Württemberg	265792	113281	385	426201	1448	10.3	86.2	
 Emmendingen (Landkreis)	Baden-Württemberg	167945	78070	274	464854	1631	11.8	82.4	17.1
 Ortenaukreis (Landkreis)	Baden-Württemberg	434535	206836	903	475993	2078	2.3	82.8	
@@ -315,7 +315,7 @@ Bodenseekreis (Landkreis)	Baden-Württemberg	218885	90609	384	413957	1754	3.7	59
 Ravensburg (Landkreis)	Baden-Württemberg	287011	128292	232	446993	808	0.0	87.9	
 Sigmaringen (Landkreis)	Baden-Württemberg	131725	65898	190	500269	1442	0.0	75.0	
 Ingolstadt (Kreisfreie Stadt)	Bayern	138016	66931	267	484951	1934	2.2	82.6	15.1
-München (Kreisfreie Stadt)	Bayern	1487708	700407	2384	470796	1602	4.5	96.1	
+München (Kreisfreie Stadt)	Bayern	1487708	700407	2384	470796	1602	4.5	95.9	
 Rosenheim (Kreisfreie Stadt)	Bayern	63508	34074	144	536530	2267	12.8	92.3	
 Altötting (Landkreis)	Bayern	112116	60210	380	537033	3389	0.0	95.8	
 Berchtesgadener Land (Landkreis)	Bayern	106389	53510	210	502965	1973	5.3	84.2	
