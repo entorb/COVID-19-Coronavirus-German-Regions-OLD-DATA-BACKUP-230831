@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	62863	235	480431	1795	0.0	81.6
 Saarlouis (Landkreis)	Saarland	193661	99160	294	512028	1518	3.8	86.8	
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	67681	220	480143	1560	3.2	87.7	
 St. Wendel (Landkreis)	Saarland	86170	44531	190	516780	2204	14.3	100.0	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	91722	440	351997	1688	5.6	80.8	42.7
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	109407	459	344883	1446	5.6	80.8	46.0
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	98828	386	361758	1412	5.6	80.8	26.6
-Berlin Pankow (Bezirk)	Berlin	404795	159399	343	393777	847	5.6	80.8	19.5
-Berlin Neukölln (Bezirk)	Berlin	320204	124487	553	388774	1727	5.6	80.8	12.3
-Berlin Lichtenberg (Bezirk)	Berlin	293139	109338	388	372990	1323	5.6	80.8	21.5
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	98988	416	360148	1513	5.6	80.8	
-Berlin Spandau (Bezirk)	Berlin	240542	90547	352	376429	1463	5.6	80.8	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	102869	574	351983	1964	5.6	80.8	44.5
-Berlin Mitte (Bezirk)	Berlin	377735	153510	420	406396	1111	5.6	80.8	41.6
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	119508	223	425793	794	5.6	80.8	19.7
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	127754	644	373238	1881	5.6	80.8	30.1
+Berlin Reinickendorf (Bezirk)	Berlin	260576	91722	440	351997	1688	6.4	92.0	42.7
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	109407	459	344883	1446	6.4	92.0	46.0
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	98828	386	361758	1412	6.4	92.0	26.6
+Berlin Pankow (Bezirk)	Berlin	404795	159399	343	393777	847	6.4	92.0	19.5
+Berlin Neukölln (Bezirk)	Berlin	320204	124487	553	388774	1727	6.4	92.0	12.3
+Berlin Lichtenberg (Bezirk)	Berlin	293139	109338	388	372990	1323	6.4	92.0	21.5
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	98988	416	360148	1513	6.4	92.0	
+Berlin Spandau (Bezirk)	Berlin	240542	90547	352	376429	1463	6.4	92.0	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	102869	574	351983	1964	6.4	92.0	44.5
+Berlin Mitte (Bezirk)	Berlin	377735	153510	420	406396	1111	6.4	92.0	41.6
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	119508	223	425793	794	6.4	92.0	19.7
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	127754	644	373238	1881	6.4	92.0	30.1
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	28031	188	386842	2594	5.4	91.1	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	49444	333	502689	3385	8.3	65.5	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	26610	219	469486	3863	22.2	100.0	
@@ -62,7 +62,7 @@ Chemnitz (Kreisfreie Stadt)	Sachsen	243105	105980	892	435943	3669	7.1	87.2
 Erzgebirgskreis (Landkreis)	Sachsen	328695	159503	1794	485261	5457	8.7	69.6	
 Mittelsachsen (Landkreis)	Sachsen	299329	139162	1055	464913	3524	2.2	82.6	
 Vogtlandkreis (Landkreis)	Sachsen	221376	107602	1352	486059	6107	6.9	77.6	
-Zwickau (Landkreis)	Sachsen	309621	143529	1614	463563	5212	3.4	80.5	
+Zwickau (Landkreis)	Sachsen	309621	143529	1614	463563	5212	3.4	81.6	
 Dresden (Kreisfreie Stadt)	Sachsen	555351	274915	1827	495029	3289	3.0	88.6	
 Bautzen (Landkreis)	Sachsen	296290	152420	1507	514428	5086	6.2	83.1	
 Görlitz (Landkreis)	Sachsen	248273	109506	1711	441070	6891	4.9	75.4	
@@ -302,12 +302,12 @@ Ortenaukreis (Landkreis)	Baden-Württemberg	434535	207580	912	477706	2098	4.7	81
 Rottweil (Landkreis)	Baden-Württemberg	140446	66491	300	473427	2136	25.0	91.7	
 Schwarzwald-Baar-Kreis (Landkreis)	Baden-Württemberg	213385	94842	428	444464	2005	0.0	88.9	
 Tuttlingen (Landkreis)	Baden-Württemberg	142414	65038	280	456682	1966	0.0	90.0	
-Konstanz (Landkreis)	Baden-Württemberg	288097	122497	451	425193	1565	2.5	72.5	
+Konstanz (Landkreis)	Baden-Württemberg	288097	122497	451	425193	1565	2.5	73.4	
 Lörrach (Landkreis)	Baden-Württemberg	229445	92434	465	402859	2026	0.0	90.3	
 Waldshut (Landkreis)	Baden-Württemberg	171249	71895	367	419827	2143	10.0	100.0	
 Reutlingen (Landkreis)	Baden-Württemberg	288158	129295	525	448694	1821	0.0	100.0	
 Tübingen (Landkreis)	Baden-Württemberg	229806	101301	276	440810	1201	1.0	93.9	
-Zollernalbkreis (Landkreis)	Baden-Württemberg	190545	89458	387	469484	2031	0.0	100.0	
+Zollernalbkreis (Landkreis)	Baden-Württemberg	190545	89458	387	469484	2031	5.9	100.0	
 Ulm (Stadtkreis)	Baden-Württemberg	126949	58463	161	460523	1268	7.0	86.0	
 Alb-Donau-Kreis (Landkreis)	Baden-Württemberg	199732	89029	297	445742	1486	0.0	90.9	
 Biberach (Landkreis)	Baden-Württemberg	203244	97233	329	478405	1618	0.0	100.0	
