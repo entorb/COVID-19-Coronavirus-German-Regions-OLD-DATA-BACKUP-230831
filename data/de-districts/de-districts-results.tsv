@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	63235	237	483274	1811	2.7	89.2
 Saarlouis (Landkreis)	Saarland	193661	99714	294	514889	1518	5.2	75.9	
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	67974	220	482221	1560	1.9	77.0	
 St. Wendel (Landkreis)	Saarland	86170	44805	191	519960	2216	0.0	78.6	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	92380	441	354522	1692	7.4	93.4	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	110283	462	347644	1456	7.4	93.4	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	99476	391	364130	1431	7.4	93.4	
-Berlin Pankow (Bezirk)	Berlin	404795	160599	347	396741	857	7.4	93.4	
-Berlin Neukölln (Bezirk)	Berlin	320204	125043	554	390510	1730	7.4	93.4	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	110216	390	375985	1330	7.4	93.4	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	99523	419	362095	1524	7.4	93.4	
-Berlin Spandau (Bezirk)	Berlin	240542	91257	358	379380	1488	7.4	93.4	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	103715	578	354878	1977	7.4	93.4	
-Berlin Mitte (Bezirk)	Berlin	377735	154626	422	409350	1117	7.4	93.4	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	120142	227	428052	808	7.4	93.4	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	128735	647	376104	1890	7.4	93.4	
+Berlin Reinickendorf (Bezirk)	Berlin	260576	92380	441	354522	1692	7.3	93.4	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	110283	462	347644	1456	7.3	93.4	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	99476	391	364130	1431	7.3	93.4	
+Berlin Pankow (Bezirk)	Berlin	404795	160599	347	396741	857	7.3	93.4	
+Berlin Neukölln (Bezirk)	Berlin	320204	125043	554	390510	1730	7.3	93.4	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	110216	390	375985	1330	7.3	93.4	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	99523	419	362095	1524	7.3	93.4	
+Berlin Spandau (Bezirk)	Berlin	240542	91257	358	379380	1488	7.3	93.4	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	103715	578	354878	1977	7.3	93.4	
+Berlin Mitte (Bezirk)	Berlin	377735	154626	422	409350	1117	7.3	93.4	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	120142	227	428052	808	7.3	93.4	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	128735	647	376104	1890	7.3	93.4	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	28240	188	389726	2594	3.2	84.1	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	49792	334	506227	3395	6.0	69.9	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	26861	220	473914	3881	0.0	77.8	
@@ -92,7 +92,7 @@ Suhl (Kreisfreie Stadt)	Thüringen	36054	12764	205	354024	5685	0.0	31.8
 Weimar (Kreisfreie Stadt)	Thüringen	65138	27192	187	417452	2870	15.4	100.0	
 Eichsfeld (Landkreis)	Thüringen	99324	46351	374	466664	3765	0.0	72.7	41.5
 Nordhausen (Landkreis)	Thüringen	81687	28601	110	350129	1346	1.8	75.4	
-Wartburgkreis (Landkreis)	Thüringen	158900	63691	466	400824	2932	1.2	77.8	
+Wartburgkreis (Landkreis)	Thüringen	158900	63691	466	400824	2932	1.2	84.0	
 Unstrut-Hainich-Kreis (Landkreis)	Thüringen	101269	43542	433	429963	4275	5.9	76.5	
 Kyffhäuserkreis (Landkreis)	Thüringen	72964	26610	263	364700	3604	16.7	83.3	
 Schmalkalden-Meiningen (Landkreis)	Thüringen	123404	56135	743	454888	6020	9.5	90.5	
@@ -188,7 +188,7 @@ Borken (Kreis)	Nordrhein-Westfalen	373582	188766	521	505286	1394	4.9	90.2
 Coesfeld (Kreis)	Nordrhein-Westfalen	221352	107179	156	484201	704	0.0	94.4	
 Recklinghausen (Kreis)	Nordrhein-Westfalen	612801	237741	1647	387957	2687	7.9	82.9	
 Steinfurt (Kreis)	Nordrhein-Westfalen	450176	207612	524	461179	1163	7.1	81.4	
-Warendorf (Kreis)	Nordrhein-Westfalen	278176	132247	385	475407	1384	9.5	95.2	
+Warendorf (Kreis)	Nordrhein-Westfalen	278176	132247	385	475407	1384	7.1	95.2	
 Bielefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	334002	157154	684	470518	2047	2.6	92.3	
 Gütersloh (Kreis)	Nordrhein-Westfalen	366104	178104	540	486484	1474	8.3	100.0	
 Herford (Kreis)	Nordrhein-Westfalen	250635	130326	420	519983	1675	10.4	64.6	
@@ -243,7 +243,7 @@ Cochem-Zell (Landkreis)	Rheinland-Pfalz	61735	24980	130	404632	2105	20.0	80.0
 Mayen-Koblenz (Landkreis)	Rheinland-Pfalz	215446	92664	252	430103	1169	17.2	86.2	
 Neuwied (Landkreis)	Rheinland-Pfalz	184390	66459	282	360426	1529	6.1	90.9	
 Rhein-Hunsrück-Kreis (Landkreis)	Rheinland-Pfalz	103767	47202	162	454884	1561	0.0	100.0	
-Rhein-Lahn-Kreis (Landkreis)	Rheinland-Pfalz	122724	47915	129	390428	1051	3.6	85.7	
+Rhein-Lahn-Kreis (Landkreis)	Rheinland-Pfalz	122724	47915	129	390428	1051	0.0	85.7	
 Westerwaldkreis (Landkreis)	Rheinland-Pfalz	203831	87357	282	428575	1383	3.8	80.8	31.6
 Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110570	42847	71	387510	642	10.0	82.9	
 Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	113194	41432	146	366026	1289	5.3	100.0	
