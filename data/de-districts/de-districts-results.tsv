@@ -87,7 +87,7 @@ Stendal (Landkreis)	Sachsen-Anhalt	109746	45071	312	410684	2842	0.0	85.7	25.8
 Wittenberg (Landkreis)	Sachsen-Anhalt	123341	51371	448	416495	3632	6.7	70.0	
 Erfurt (Kreisfreie Stadt)	Thüringen	213227	79715	595	373850	2790	10.1	87.0	
 Gera (Kreisfreie Stadt)	Thüringen	91368	36540	404	399921	4421	2.4	95.2	
-Jena (Kreisfreie Stadt)	Thüringen	110502	46608	174	421784	1574	6.2	83.3	
+Jena (Kreisfreie Stadt)	Thüringen	110502	46608	174	421784	1574	7.3	83.3	
 Suhl (Kreisfreie Stadt)	Thüringen	36054	12796	208	354912	5769	0.0	54.5	
 Weimar (Kreisfreie Stadt)	Thüringen	65138	27247	188	418296	2886	0.0	83.3	
 Eichsfeld (Landkreis)	Thüringen	99324	46476	376	467923	3785	9.1	68.2	25.4
@@ -118,7 +118,7 @@ Northeim (Landkreis)	Niedersachsen	131765	61294	207	465176	1570	0.0	70.0	6.6
 Peine (Landkreis)	Niedersachsen	136960	68333	183	498926	1336	6.7	100.0	
 Wolfenbüttel (Landkreis)	Niedersachsen	119224	54293	201	455386	1685	12.5	75.0	
 Göttingen (Landkreis)	Niedersachsen	323661	150371	496	464594	1532	6.2	86.8	
-Hannover (Landkreis)	Niedersachsen	1157541	519301	2093	448624	1808	4.7	89.7	
+Hannover (Landkreis)	Niedersachsen	1157541	519301	2093	448624	1808	5.0	89.7	
 Diepholz (Landkreis)	Niedersachsen	218839	102654	180	469084	822	0.0	72.2	
 Hameln-Pyrmont (Landkreis)	Niedersachsen	148963	67627	199	453985	1335	2.9	72.5	12.0
 Hildesheim (Landkreis)	Niedersachsen	274773	127361	669	463513	2434	5.3	81.6	
@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	113690	387	435592
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	65084	441	381190	2582	6.7	100.0	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	73457	524	351886	2510	10.3	89.7	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	51151	301	457645	2693	10.7	92.9	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	81058	365	509936	2296	19.2	94.5	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	81058	365	509936	2296	16.4	93.2	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	165938	725	467995	2044	4.4	90.5	
 Kleve (Kreis)	Nordrhein-Westfalen	314676	120284	442	382247	1404	4.3	78.6	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	223476	1254	461335	2588	14.8	86.9	
@@ -172,7 +172,7 @@ Viersen (Kreis)	Nordrhein-Westfalen	298761	128035	413	428553	1382	8.1	97.3
 Wesel (Kreis)	Nordrhein-Westfalen	460433	191867	526	416709	1142	7.9	88.2	
 Bonn (Kreisfreie Stadt)	Nordrhein-Westfalen	331885	137181	503	413338	1515	6.6	93.8	
 Köln (Kreisfreie Stadt)	Nordrhein-Westfalen	1073096	494736	1179	461036	1098	7.6	95.8	
-Leverkusen (Kreisfreie Stadt)	Nordrhein-Westfalen	163851	74252	202	453167	1232	6.1	92.4	
+Leverkusen (Kreisfreie Stadt)	Nordrhein-Westfalen	163851	74252	202	453167	1232	7.6	92.4	
 Städteregion Aachen (Kreis)	Nordrhein-Westfalen	556673	248462	1003	446333	1801	5.2	94.8	
 Düren (Kreis)	Nordrhein-Westfalen	266771	128865	484	483054	1814	0.0	82.8	
 Rhein-Erft-Kreis (Kreis)	Nordrhein-Westfalen	471891	222249	672	470975	1424	10.0	83.3	
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217556	98023	274	450564	1259	5.0	98.0
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53491	22262	80	416182	1495	16.7	100.0	
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40054	15504	114	387077	2846	7.1	71.4	
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50565	22841	130	451715	2570	0.0	96.2	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	37801	174	450816	2075	2.1	81.2	18.9
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	37801	174	450816	2075	4.2	81.2	18.9
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34091	14717	39	431697	1143	0.0	60.0	
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	131330	56449	249	429825	1895	16.7	83.3	
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133206	51118	253	383751	1899	5.9	82.4	
