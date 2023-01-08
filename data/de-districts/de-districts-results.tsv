@@ -18,7 +18,7 @@ Saarbrücken (Landkreis)	Saarland	327284	150084	897	458574	2740	6.0	88.0
 Merzig-Wadern (Landkreis)	Saarland	103426	53132	183	513719	1769	8.3	91.7	
 Neunkirchen (Landkreis)	Saarland	130847	63805	239	487630	1826	13.2	78.9	25.9
 Saarlouis (Landkreis)	Saarland	193661	100539	300	519149	1549	0.0	87.5	
-Saarpfalz-Kreis (Landkreis)	Saarland	140960	68479	221	485804	1567	1.9	90.7	
+Saarpfalz-Kreis (Landkreis)	Saarland	140960	68479	221	485804	1567	1.9	76.8	
 St. Wendel (Landkreis)	Saarland	86170	45222	196	524799	2274	6.2	81.2	
 Berlin Reinickendorf (Bezirk)	Berlin	260576	93116	454	357346	1742	6.2	91.9	
 Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	111148	468	350371	1475	6.2	91.9	
@@ -118,7 +118,7 @@ Northeim (Landkreis)	Niedersachsen	131765	61590	207	467423	1570	5.0	85.0
 Peine (Landkreis)	Niedersachsen	136960	68615	183	500985	1336	7.1	100.0	
 Wolfenbüttel (Landkreis)	Niedersachsen	119224	54515	201	457248	1685	6.2	81.2	
 Göttingen (Landkreis)	Niedersachsen	323661	151078	503	466778	1554	4.4	91.9	
-Hannover (Landkreis)	Niedersachsen	1157541	521315	2119	450364	1830	6.9	91.5	
+Hannover (Landkreis)	Niedersachsen	1157541	521315	2119	450364	1830	7.4	91.5	
 Diepholz (Landkreis)	Niedersachsen	218839	102953	182	470450	831	0.0	76.5	
 Hameln-Pyrmont (Landkreis)	Niedersachsen	148963	67938	202	456072	1356	4.2	87.3	
 Hildesheim (Landkreis)	Niedersachsen	274773	127892	677	465446	2463	6.6	85.5	
@@ -148,7 +148,7 @@ Emsland (Landkreis)	Niedersachsen	331397	189678	439	572358	1324	0.0	69.5
 Friesland (Landkreis)	Niedersachsen	98971	41576	79	420082	798	0.0	82.8	
 Grafschaft Bentheim (Landkreis)	Niedersachsen	138722	74636	214	538025	1542	0.0	84.0	
 Leer (Landkreis)	Niedersachsen	172421	71038	187	412003	1084	8.0	64.0	
-Oldenburg (Landkreis)	Niedersachsen	132091	66916	178	506590	1347	16.7	100.0	
+Oldenburg (Landkreis)	Niedersachsen	132091	66916	178	506590	1347	0.0	100.0	
 Osnabrück (Landkreis)	Niedersachsen	361550	185845	525	514022	1452	2.5	79.7	
 Vechta (Landkreis)	Niedersachsen	144805	88670	128	612340	883	0.0	78.9	
 Wesermarsch (Landkreis)	Niedersachsen	88430	38734	182	438018	2058	11.1	100.0	
