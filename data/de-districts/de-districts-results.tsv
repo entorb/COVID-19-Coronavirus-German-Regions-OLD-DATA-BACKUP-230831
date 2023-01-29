@@ -35,7 +35,7 @@ Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	130682	677	381792	1977	3.0	9
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	28644	203	395302	2801	1.5	84.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	50416	338	512571	3436	2.4	87.1	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	27345	222	482453	3916	0.0	83.3	
-Potsdam (Kreisfreie Stadt)	Brandenburg	183154	78894	286	430752	1561	0.0	70.8	
+Potsdam (Kreisfreie Stadt)	Brandenburg	183154	78894	286	430752	1561	0.0	72.2	
 Barnim (Landkreis)	Brandenburg	188835	68751	397	364079	2102	6.8	100.0	
 Dahme-Spreewald (Landkreis)	Brandenburg	175834	79371	439	451397	2496	0.0	78.4	21.3
 Elbe-Elster (Landkreis)	Brandenburg	100317	49964	442	498061	4406	0.0	55.6	
@@ -98,7 +98,7 @@ Kyffhäuserkreis (Landkreis)	Thüringen	72964	26825	272	367647	3727	0.0	66.7
 Schmalkalden-Meiningen (Landkreis)	Thüringen	123404	56533	757	458113	6134	9.5	69.0	
 Gotha (Landkreis)	Thüringen	133825	52706	378	393842	2824	0.0	33.3	
 Sömmerda (Landkreis)	Thüringen	68717	27592	269	401530	3914	0.0	60.0	
-Hildburghausen (Landkreis)	Thüringen	62089	28141	443	453236	7134	0.0	37.5	
+Hildburghausen (Landkreis)	Thüringen	62089	28141	443	453236	7134	0.0	62.5	
 Ilm-Kreis (Landkreis)	Thüringen	105367	48293	455	458331	4318	0.0	94.1	
 Weimarer Land (Landkreis)	Thüringen	82103	32465	150	395417	1826	1.3	96.1	
 Sonneberg (Landkreis)	Thüringen	56504	24461	305	432907	5397	12.5	87.5	
@@ -271,7 +271,7 @@ Rhein-Pfalz-Kreis (Landkreis)	Rheinland-Pfalz	155050	60191	305	388203	1967
 Mainz-Bingen (Landkreis)	Rheinland-Pfalz	212420	98140	329	462009	1548	0.0	90.0	
 Südwestpfalz (Landkreis)	Rheinland-Pfalz	94819	39862	172	420400	1813	0.0	71.4	
 Stuttgart (Stadtkreis)	Baden-Württemberg	626275	250875	767	400582	1224	4.0	91.6	
-Böblingen (Landkreis)	Baden-Württemberg	393195	182359	539	463787	1370	3.8	92.5	
+Böblingen (Landkreis)	Baden-Württemberg	393195	182359	539	463787	1370	3.8	81.1	
 Esslingen (Landkreis)	Baden-Württemberg	533388	241091	1011	451999	1895	4.1	80.8	59.1
 Göppingen (Landkreis)	Baden-Württemberg	259046	112023	420	432444	1621	7.5	80.0	18.3
 Ludwigsburg (Landkreis)	Baden-Württemberg	544679	231091	763	424270	1400	0.0	83.3	
@@ -324,7 +324,7 @@ Dachau (Landkreis)	Bayern	155449	84308	272	542351	1749	6.5	100.0	19.6
 Ebersberg (Landkreis)	Bayern	144562	74244	312	513578	2158	5.3	100.0	
 Eichstätt (Landkreis)	Bayern	133634	68577	153	513170	1144	11.4	90.9	
 Erding (Landkreis)	Bayern	139622	76220	224	545902	1604	12.5	87.5	
-Freising (Landkreis)	Bayern	181144	90508	254	499646	1402	25.0	91.7	
+Freising (Landkreis)	Bayern	181144	90508	254	499646	1402	25.0	100.0	
 Fürstenfeldbruck (Landkreis)	Bayern	218579	107360	266	491172	1216	20.0	100.0	40.2
 Garmisch-Partenkirchen (Landkreis)	Bayern	88232	39974	171	453055	1938	3.3	85.2	
 Landsberg am Lech (Landkreis)	Bayern	121466	57663	125	474725	1029	0.0	53.8	
