@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	64351	242	491803	1849	2.6	82.1	12.8
 Saarlouis (Landkreis)	Saarland	193661	101119	303	522144	1564	0.0	79.3	16.8
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	68918	221	488918	1567	1.1	88.6	14.5
 St. Wendel (Landkreis)	Saarland	86170	45691	201	530242	2332	0.0	71.4	13.1
-Berlin Reinickendorf (Bezirk)	Berlin	260576	93732	460	359710	1765	3.0	89.9	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	111757	476	352291	1500	3.0	89.9	20.8
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	101047	407	369880	1489	3.0	89.9	
-Berlin Pankow (Bezirk)	Berlin	404795	163051	363	402798	896	3.0	89.9	15.3
-Berlin Neukölln (Bezirk)	Berlin	320204	126855	570	396169	1780	3.0	89.9	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	112038	404	382200	1378	3.0	89.9	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	101495	432	369270	1571	3.0	89.9	58.5
-Berlin Spandau (Bezirk)	Berlin	240542	92874	385	386103	1600	3.0	89.9	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	106015	612	362748	2094	3.0	89.9	16.6
-Berlin Mitte (Bezirk)	Berlin	377735	157209	424	416188	1122	3.0	89.9	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	121697	234	433593	833	3.0	89.9	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	130855	679	382298	1983	3.0	89.9	
+Berlin Reinickendorf (Bezirk)	Berlin	260576	93732	460	359710	1765	2.8	89.6	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	111757	476	352291	1500	2.8	89.6	20.8
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	101047	407	369880	1489	2.8	89.6	
+Berlin Pankow (Bezirk)	Berlin	404795	163051	363	402798	896	2.8	89.6	15.3
+Berlin Neukölln (Bezirk)	Berlin	320204	126855	570	396169	1780	2.8	89.6	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	112038	404	382200	1378	2.8	89.6	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	101495	432	369270	1571	2.8	89.6	58.5
+Berlin Spandau (Bezirk)	Berlin	240542	92874	385	386103	1600	2.8	89.6	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	106015	612	362748	2094	2.8	89.6	16.6
+Berlin Mitte (Bezirk)	Berlin	377735	157209	424	416188	1122	2.8	89.6	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	121697	234	433593	833	2.8	89.6	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	130855	679	382298	1983	2.8	89.6	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	28681	203	395812	2801	3.0	83.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	50481	338	513232	3436	2.3	83.7	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	27388	222	483212	3916	0.0	83.3	
@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	115313	395	441810
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	66161	452	387497	2647	7.4	96.3	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	74672	540	357706	2586	5.6	87.3	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	52161	308	466681	2755	3.6	67.9	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	82429	380	518561	2390	10.0	97.1	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	82429	380	518561	2390	11.4	100.0	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	168363	740	474834	2087	3.0	94.0	39.3
 Kleve (Kreis)	Nordrhein-Westfalen	314676	122053	470	387868	1493	1.5	76.5	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	227807	1297	470276	2677	0.0	76.5	
