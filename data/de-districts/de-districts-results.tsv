@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	116064	397	444687
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	66784	452	391146	2647	3.7	100.0	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	75221	542	360336	2596	7.4	85.3	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	52613	310	470725	2773	17.9	100.0	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	83107	388	522826	2440	11.8	94.1	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	83107	388	522826	2440	10.1	95.7	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	169465	739	477942	2084	5.2	82.8	
 Kleve (Kreis)	Nordrhein-Westfalen	314676	122984	473	390827	1503	4.6	72.3	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	229815	1307	474421	2698	5.9	82.4	
@@ -194,7 +194,7 @@ Gütersloh (Kreis)	Nordrhein-Westfalen	366104	182027	551	497200	1505	7.1	85.7
 Herford (Kreis)	Nordrhein-Westfalen	250635	134569	455	536912	1815	4.0	68.0	
 Höxter (Kreis)	Nordrhein-Westfalen	139994	55703	237	397895	1692	7.9	76.3	
 Lippe (Kreis)	Nordrhein-Westfalen	346151	152163	770	439585	2224	2.0	96.0	
-Minden-Lübbecke (Kreis)	Nordrhein-Westfalen	311214	174753	502	561520	1613	0.0	92.3	
+Minden-Lübbecke (Kreis)	Nordrhein-Westfalen	311214	174753	502	561520	1613	0.5	92.3	
 Paderborn (Kreis)	Nordrhein-Westfalen	309380	121703	254	393377	820	2.5	84.0	53.5
 Bochum (Kreisfreie Stadt)	Nordrhein-Westfalen	363441	144295	567	397024	1560	4.9	84.3	
 Dortmund (Kreisfreie Stadt)	Nordrhein-Westfalen	586852	258516	694	440513	1182	3.3	88.8	
@@ -256,9 +256,9 @@ Landau in der Pfalz (Kreisfreie Stadt)	Rheinland-Pfalz	46919	20341	88	433534	187
 Ludwigshafen am Rhein (Kreisfreie Stadt)	Rheinland-Pfalz	172145	68062	467	395375	2712	3.0	86.1	
 Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217556	100310	278	461076	1277	7.5	98.1	
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53491	22819	87	426595	1626	0.0	84.2	
-Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40054	15881	120	396489	2995	6.2	81.2	
+Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40054	15881	120	396489	2995	0.0	81.2	
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50565	23245	133	459705	2630	8.0	88.0	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	38355	178	457423	2122	0.0	76.3	42.1
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	38355	178	457423	2122	2.6	76.3	42.1
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34091	15123	39	443606	1143	0.0	50.0	
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	131330	57479	257	437668	1956	0.0	100.0	
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133206	52481	266	393983	1996	0.0	58.8	
