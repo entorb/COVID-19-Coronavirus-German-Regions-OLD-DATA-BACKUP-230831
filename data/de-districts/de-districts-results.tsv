@@ -20,22 +20,22 @@ Neunkirchen (Landkreis)	Saarland	130847	64949	246	496373	1880	2.6	84.6
 Saarlouis (Landkreis)	Saarland	193661	101670	304	524989	1569	3.6	85.5	39.4
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	69415	221	492444	1567	3.1	88.8	
 St. Wendel (Landkreis)	Saarland	86170	46198	203	536126	2355	7.1	92.9	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	94178	468	361422	1796	3.9	90.1	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	112211	482	353722	1519	3.9	90.1	38.7
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	101569	410	371791	1500	3.9	90.1	
-Berlin Pankow (Bezirk)	Berlin	404795	163719	371	404449	916	3.9	90.1	
-Berlin Neukölln (Bezirk)	Berlin	320204	127308	568	397584	1773	3.9	90.1	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	112489	408	383739	1391	3.9	90.1	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	101908	452	370772	1644	3.9	90.1	
-Berlin Spandau (Bezirk)	Berlin	240542	93303	391	387886	1625	3.9	90.1	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	106670	618	364989	2114	3.9	90.1	
-Berlin Mitte (Bezirk)	Berlin	377735	158115	431	418587	1141	3.9	90.1	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	122233	239	435502	851	3.9	90.1	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	131552	677	384334	1977	3.9	90.1	
+Berlin Reinickendorf (Bezirk)	Berlin	260576	94178	468	361422	1796	4.0	90.1	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	112211	482	353722	1519	4.0	90.1	38.7
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	101569	410	371791	1500	4.0	90.1	
+Berlin Pankow (Bezirk)	Berlin	404795	163719	371	404449	916	4.0	90.1	
+Berlin Neukölln (Bezirk)	Berlin	320204	127308	568	397584	1773	4.0	90.1	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	112489	408	383739	1391	4.0	90.1	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	101908	452	370772	1644	4.0	90.1	
+Berlin Spandau (Bezirk)	Berlin	240542	93303	391	387886	1625	4.0	90.1	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	106670	618	364989	2114	4.0	90.1	
+Berlin Mitte (Bezirk)	Berlin	377735	158115	431	418587	1141	4.0	90.1	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	122233	239	435502	851	4.0	90.1	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	131552	677	384334	1977	4.0	90.1	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	28800	208	397455	2870	1.4	78.9	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	50750	340	515967	3456	4.6	85.1	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	27547	222	486017	3916	8.3	75.0	
-Potsdam (Kreisfreie Stadt)	Brandenburg	183154	80172	286	437729	1561	2.8	75.0	9.2
+Potsdam (Kreisfreie Stadt)	Brandenburg	183154	80172	286	437729	1561	4.2	75.0	9.2
 Barnim (Landkreis)	Brandenburg	188835	69155	398	366219	2107	1.7	100.0	
 Dahme-Spreewald (Landkreis)	Brandenburg	175834	79869	442	454229	2513	0.0	60.5	
 Elbe-Elster (Landkreis)	Brandenburg	100317	50141	443	499825	4416	0.0	77.8	
@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	116190	397	445170
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	66898	452	391814	2647	10.7	96.4	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	75330	542	360858	2596	10.0	88.6	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	52722	310	471700	2773	17.9	100.0	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	83201	391	523418	2459	8.6	97.1	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	83201	391	523418	2459	7.0	95.8	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	169591	739	478297	2084	6.7	84.3	
 Kleve (Kreis)	Nordrhein-Westfalen	314676	123131	473	391294	1503	5.9	80.9	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	230155	1309	475123	2702	5.9	82.4	
@@ -281,7 +281,7 @@ Heilbronn (Landkreis)	Baden-Württemberg	347798	167807	524	482484	1506	6.2	89.6
 Hohenlohekreis (Landkreis)	Baden-Württemberg	113318	54838	198	483930	1747	14.3	100.0	
 Schwäbisch Hall (Landkreis)	Baden-Württemberg	199398	85993	377	431263	1890	0.0	85.4	23.8
 Main-Tauber-Kreis (Landkreis)	Baden-Württemberg	132956	61559	251	463002	1887	5.1	67.8	
-Heidenheim (Landkreis)	Baden-Württemberg	132958	63421	381	477000	2865	4.5	59.1	
+Heidenheim (Landkreis)	Baden-Württemberg	132958	63421	381	477000	2865	5.0	65.0	
 Ostalbkreis (Landkreis)	Baden-Württemberg	315009	150967	633	479246	2009	2.8	87.5	
 Baden-Baden (Stadtkreis)	Baden-Württemberg	55527	23821	135	428998	2431	0.0	72.7	
 Karlsruhe (Stadtkreis)	Baden-Württemberg	306502	130200	420	424793	1370	3.6	89.1	27.2
