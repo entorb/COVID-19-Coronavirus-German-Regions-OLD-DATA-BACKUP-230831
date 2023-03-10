@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	65680	247	501960	1887	5.1	89.7
 Saarlouis (Landkreis)	Saarland	193661	102624	303	529915	1564	5.5	89.1	
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	69877	221	495722	1567	6.9	90.9	
 St. Wendel (Landkreis)	Saarland	86170	46734	205	542346	2379	0.0	92.9	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	94528	475	362765	1822	3.0	86.7	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	112590	482	354917	1519	3.0	86.7	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	101939	414	373145	1515	3.0	86.7	
-Berlin Pankow (Bezirk)	Berlin	404795	164352	374	406012	923	3.0	86.7	
-Berlin Neukölln (Bezirk)	Berlin	320204	127673	568	398723	1773	3.0	86.7	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	112832	413	384909	1408	3.0	86.7	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	102192	457	371806	1662	3.0	86.7	
-Berlin Spandau (Bezirk)	Berlin	240542	93713	400	389591	1662	3.0	86.7	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	107185	632	366751	2162	3.0	86.7	
-Berlin Mitte (Bezirk)	Berlin	377735	158943	431	420779	1141	3.0	86.7	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	122685	241	437113	858	3.0	86.7	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	132029	677	385728	1977	3.0	86.7	
+Berlin Reinickendorf (Bezirk)	Berlin	260576	94528	475	362765	1822	3.2	86.9	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	112590	482	354917	1519	3.2	86.9	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	101939	414	373145	1515	3.2	86.9	
+Berlin Pankow (Bezirk)	Berlin	404795	164352	374	406012	923	3.2	86.9	
+Berlin Neukölln (Bezirk)	Berlin	320204	127673	568	398723	1773	3.2	86.9	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	112832	413	384909	1408	3.2	86.9	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	102192	457	371806	1662	3.2	86.9	
+Berlin Spandau (Bezirk)	Berlin	240542	93713	400	389591	1662	3.2	86.9	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	107185	632	366751	2162	3.2	86.9	
+Berlin Mitte (Bezirk)	Berlin	377735	158943	431	420779	1141	3.2	86.9	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	122685	241	437113	858	3.2	86.9	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	132029	677	385728	1977	3.2	86.9	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	28923	212	399152	2925	0.0	76.8	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	50941	341	517908	3466	2.3	90.7	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	27641	222	487676	3916	0.0	83.3	
@@ -155,7 +155,7 @@ Wesermarsch (Landkreis)	Niedersachsen	88430	39486	198	446522	2239	20.0	50.0
 Wittmund (Landkreis)	Niedersachsen	57455	28654	92	498720	1601	0.0	100.0	
 Bremen (Kreisfreie Stadt)	Bremen	563290	249813	722	443489	1281	4.7	95.3	
 Bremerhaven (Kreisfreie Stadt)	Bremen	113173	53799	246	475369	2173	7.5	82.5	
-Düsseldorf (Kreisfreie Stadt)	Nordrhein-Westfalen	619477	277027	1062	447194	1714	5.8	95.2	
+Düsseldorf (Kreisfreie Stadt)	Nordrhein-Westfalen	619477	277027	1062	447194	1714	5.5	95.2	
 Duisburg (Kreisfreie Stadt)	Nordrhein-Westfalen	495152	162046	1073	327265	2167	4.0	85.7	
 Essen (Kreisfreie Stadt)	Nordrhein-Westfalen	579432	229240	904	395628	1560	6.6	91.8	
 Krefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	227050	94556	312	416454	1374	2.5	85.2	
@@ -360,7 +360,7 @@ Regensburg (Landkreis)	Bayern	195225	105308	304	539418	1557	23.1	100.0
 Schwandorf (Landkreis)	Bayern	149239	79146	330	530330	2211	0.0	100.0	
 Tirschenreuth (Landkreis)	Bayern	71648	40748	334	568724	4661	0.0	100.0	
 Bamberg (Kreisfreie Stadt)	Bayern	77749	33764	183	434269	2353	2.1	72.9	
-Bayreuth (Kreisfreie Stadt)	Bayern	73909	39138	200	529543	2706	2.1	87.5	
+Bayreuth (Kreisfreie Stadt)	Bayern	73909	39138	200	529543	2706	4.2	87.5	
 Coburg (Kreisfreie Stadt)	Bayern	40955	20308	125	495861	3052	2.7	83.8	
 Hof (Kreisfreie Stadt)	Bayern	45125	23380	196	518116	4343	0.0	85.7	
 Bamberg (Landkreis)	Bayern	147697	80917	289	547858	1956	0.0	37.5	
@@ -386,7 +386,7 @@ Roth (Landkreis)	Bayern	127520	67158	280	526646	2195	16.7	66.7
 Weißenburg-Gunzenhausen (Landkreis)	Bayern	95523	49992	208	523350	2177	0.0	68.8	
 Aschaffenburg (Kreisfreie Stadt)	Bayern	71381	35148	225	492399	3152	4.9	93.4	
 Schweinfurt (Kreisfreie Stadt)	Bayern	53585	28918	203	539665	3788	12.9	91.9	
-Würzburg (Kreisfreie Stadt)	Bayern	126933	68839	243	542325	1914	4.6	84.7	
+Würzburg (Kreisfreie Stadt)	Bayern	126933	68839	243	542325	1914	4.7	86.0	
 Aschaffenburg (Landkreis)	Bayern	174965	86849	377	496379	2154	0.0	60.0	
 Bad Kissingen (Landkreis)	Bayern	103454	56623	248	547325	2397	2.9	79.4	
 Rhön-Grabfeld (Landkreis)	Bayern	79376	44133	185	555999	2330	8.3	98.6	
