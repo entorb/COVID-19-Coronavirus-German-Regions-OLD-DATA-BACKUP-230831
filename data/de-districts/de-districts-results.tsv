@@ -121,7 +121,7 @@ Göttingen (Landkreis)	Niedersachsen	323661	155810	531	481398	1640	5.9	86.0
 Hannover (Landkreis)	Niedersachsen	1157541	535518	2330	462634	2012	4.0	85.0	
 Diepholz (Landkreis)	Niedersachsen	218839	105004	198	479823	904	7.7	76.9	
 Hameln-Pyrmont (Landkreis)	Niedersachsen	148963	69700	214	467901	1436	2.9	79.4	
-Hildesheim (Landkreis)	Niedersachsen	274773	131434	741	478336	2696	4.9	74.4	
+Hildesheim (Landkreis)	Niedersachsen	274773	131434	741	478336	2696	6.1	74.4	
 Holzminden (Landkreis)	Niedersachsen	69862	31752	202	454496	2891	9.1	81.8	
 Nienburg (Weser) (Landkreis)	Niedersachsen	121773	57944	270	475836	2217	6.2	93.8	
 Schaumburg (Landkreis)	Niedersachsen	158108	80042	297	506248	1878	0.0	100.0	
@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	117490	398	450151
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	67800	467	397097	2735	6.9	100.0	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	76261	552	365318	2644	3.0	83.3	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	53237	317	476308	2836	3.6	85.7	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	84016	410	528545	2579	13.5	89.2	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	84016	410	528545	2579	13.7	89.0	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	171467	761	483588	2146	14.1	85.2	
 Kleve (Kreis)	Nordrhein-Westfalen	314676	124452	486	395492	1544	7.6	66.7	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	232688	1320	480352	2724	8.0	78.0	
@@ -248,7 +248,7 @@ Westerwaldkreis (Landkreis)	Rheinland-Pfalz	203831	90545	297	444216	1457	3.8	100
 Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110570	44418	80	401718	723	0.0	77.6	
 Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	113194	42594	162	376292	1431	4.5	68.2	
 Eifelkreis Bitburg-Prüm (Landkreis)	Rheinland-Pfalz	100959	33541	98	332223	970	12.5	56.2	
-Vulkaneifel (Landkreis)	Rheinland-Pfalz	60882	30735	99	504829	1626	0.0	92.3	
+Vulkaneifel (Landkreis)	Rheinland-Pfalz	60882	30735	99	504829	1626	7.7	92.3	
 Trier-Saarburg (Landkreis)	Rheinland-Pfalz	151167	59166	160	391394	1058	0.0	69.2	
 Frankenthal (Pfalz) (Kreisfreie Stadt)	Rheinland-Pfalz	48773	20037	96	410821	1968	0.0	64.3	
 Kaiserslautern (Kreisfreie Stadt)	Rheinland-Pfalz	99292	46241	288	465707	2900	0.9	92.7	
@@ -319,7 +319,7 @@ München (Kreisfreie Stadt)	Bayern	1487708	719733	2571	483786	1728	6.2	93.0
 Rosenheim (Kreisfreie Stadt)	Bayern	63508	34811	150	548135	2361	7.5	77.5	
 Altötting (Landkreis)	Bayern	112116	62188	417	554675	3719	0.0	88.5	
 Berchtesgadener Land (Landkreis)	Bayern	106389	54563	217	512863	2039	9.1	77.3	
-Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127919	62022	206	484853	1610	12.5	95.8	
+Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127919	62022	206	484853	1610	16.7	95.8	
 Dachau (Landkreis)	Bayern	155449	85505	284	550051	1826	3.1	90.6	
 Ebersberg (Landkreis)	Bayern	144562	74906	314	518158	2172	5.6	100.0	
 Eichstätt (Landkreis)	Bayern	133634	69370	164	519104	1227	2.3	88.6	
