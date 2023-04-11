@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	66007	253	504459	1933	0.0	76.9
 Saarlouis (Landkreis)	Saarland	193661	102929	308	531490	1590	3.6	82.1	
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	70145	224	497623	1589	2.5	77.4	
 St. Wendel (Landkreis)	Saarland	86170	46957	206	544934	2390	0.0	85.7	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	95068	485	364837	1861	6.0	84.6	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	113161	488	356717	1538	6.0	84.6	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	102397	417	374822	1526	6.0	84.6	
-Berlin Pankow (Bezirk)	Berlin	404795	165642	391	409199	965	6.0	84.6	
-Berlin Neukölln (Bezirk)	Berlin	320204	128246	577	400513	1801	6.0	84.6	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	113273	416	386413	1419	6.0	84.6	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	102571	475	373184	1728	6.0	84.6	
-Berlin Spandau (Bezirk)	Berlin	240542	94143	414	391378	1721	6.0	84.6	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	107640	661	368308	2261	6.0	84.6	
-Berlin Mitte (Bezirk)	Berlin	377735	159853	432	423188	1143	6.0	84.6	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	123095	245	438573	872	6.0	84.6	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	132571	684	387311	1998	6.0	84.6	
+Berlin Reinickendorf (Bezirk)	Berlin	260576	95068	485	364837	1861	5.8	84.6	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	113161	488	356717	1538	5.8	84.6	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	102397	417	374822	1526	5.8	84.6	
+Berlin Pankow (Bezirk)	Berlin	404795	165642	391	409199	965	5.8	84.6	
+Berlin Neukölln (Bezirk)	Berlin	320204	128246	577	400513	1801	5.8	84.6	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	113273	416	386413	1419	5.8	84.6	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	102571	475	373184	1728	5.8	84.6	
+Berlin Spandau (Bezirk)	Berlin	240542	94143	414	391378	1721	5.8	84.6	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	107640	661	368308	2261	5.8	84.6	
+Berlin Mitte (Bezirk)	Berlin	377735	159853	432	423188	1143	5.8	84.6	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	123095	245	438573	872	5.8	84.6	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	132571	684	387311	1998	5.8	84.6	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	29030	215	400629	2967	3.1	79.7	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	51157	344	520104	3497	1.2	75.0	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	27780	224	490128	3952	8.3	66.7	
@@ -168,7 +168,7 @@ Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	171662	766	484138	2160	6
 Kleve (Kreis)	Nordrhein-Westfalen	314676	124585	489	395915	1553	1.6	65.1	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	232962	1331	480918	2747	6.0	84.0	
 Rhein-Kreis Neuss (Kreis)	Nordrhein-Westfalen	452496	194830	817	430567	1805	1.2	85.0	
-Viersen (Kreis)	Nordrhein-Westfalen	298761	133379	461	446440	1543	3.2	74.2	
+Viersen (Kreis)	Nordrhein-Westfalen	298761	133379	461	446440	1543	0.0	74.2	
 Wesel (Kreis)	Nordrhein-Westfalen	460433	197932	586	429882	1272	5.2	71.6	
 Bonn (Kreisfreie Stadt)	Nordrhein-Westfalen	331885	141149	545	425294	1642	5.2	91.3	
 Köln (Kreisfreie Stadt)	Nordrhein-Westfalen	1073096	514779	1281	479713	1193	2.1	91.8	
@@ -188,7 +188,7 @@ Borken (Kreis)	Nordrhein-Westfalen	373582	194226	568	519901	1520	10.3	80.9
 Coesfeld (Kreis)	Nordrhein-Westfalen	221352	110919	163	501097	736	5.7	85.7	
 Recklinghausen (Kreis)	Nordrhein-Westfalen	612801	247485	1770	403858	2888	4.2	73.5	
 Steinfurt (Kreis)	Nordrhein-Westfalen	450176	215799	531	479365	1179	2.5	79.0	
-Warendorf (Kreis)	Nordrhein-Westfalen	278176	137537	400	494424	1437	4.4	75.6	
+Warendorf (Kreis)	Nordrhein-Westfalen	278176	137537	400	494424	1437	6.8	77.3	
 Bielefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	334002	163715	746	490161	2233	2.5	77.7	
 Gütersloh (Kreis)	Nordrhein-Westfalen	366104	183455	565	501100	1543	0.0	75.0	
 Herford (Kreis)	Nordrhein-Westfalen	250635	135602	469	541033	1871	8.0	84.0	
@@ -248,7 +248,7 @@ Westerwaldkreis (Landkreis)	Rheinland-Pfalz	203831	90619	297	444579	1457	3.8	65.
 Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110570	44440	80	401917	723	2.6	75.6	
 Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	113194	42643	162	376724	1431	0.0	75.0	
 Eifelkreis Bitburg-Prüm (Landkreis)	Rheinland-Pfalz	100959	33568	107	332491	1059	0.0	78.6	
-Vulkaneifel (Landkreis)	Rheinland-Pfalz	60882	30756	99	505173	1626	10.0	70.0	
+Vulkaneifel (Landkreis)	Rheinland-Pfalz	60882	30756	99	505173	1626	0.0	70.0	
 Trier-Saarburg (Landkreis)	Rheinland-Pfalz	151167	59182	160	391500	1058	10.0	60.0	
 Frankenthal (Pfalz) (Kreisfreie Stadt)	Rheinland-Pfalz	48773	20048	98	411047	2009	15.4	100.0	
 Kaiserslautern (Kreisfreie Stadt)	Rheinland-Pfalz	99292	46284	291	466140	2930	1.8	93.6	
@@ -302,7 +302,7 @@ Ortenaukreis (Landkreis)	Baden-Württemberg	434535	212870	984	489879	2264	3.4	81
 Rottweil (Landkreis)	Baden-Württemberg	140446	68001	314	484178	2235	10.0	50.0	
 Schwarzwald-Baar-Kreis (Landkreis)	Baden-Württemberg	213385	97081	446	454957	2090	8.0	94.0	
 Tuttlingen (Landkreis)	Baden-Württemberg	142414	66543	297	467250	2085	0.0	50.0	
-Konstanz (Landkreis)	Baden-Württemberg	288097	125067	455	434114	1579	0.0	66.7	
+Konstanz (Landkreis)	Baden-Württemberg	288097	125067	455	434114	1579	0.0	69.0	
 Lörrach (Landkreis)	Baden-Württemberg	229445	94776	485	413066	2113	3.1	65.6	
 Waldshut (Landkreis)	Baden-Württemberg	171249	73558	400	429538	2335	10.0	60.0	
 Reutlingen (Landkreis)	Baden-Württemberg	288158	132260	578	458984	2005	6.9	96.6	
