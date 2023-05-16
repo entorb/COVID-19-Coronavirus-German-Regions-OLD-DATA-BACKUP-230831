@@ -107,7 +107,7 @@ Saale-Holzland-Kreis (Landkreis)	Thüringen	82513	38169	262	462581	3175	12.5	75.
 Saale-Orla-Kreis (Landkreis)	Thüringen	79030	34674	356	438744	4504			
 Greiz (Landkreis)	Thüringen	96102	39673	456	412821	4744	0.0	83.3	
 Altenburger Land (Landkreis)	Thüringen	87807	40665	543	463117	6184	0.0	75.0	
-Hamburg (Kreisfreie Stadt)	Hamburg	1853935	810904	3737	437396	2015	2.8	82.4	
+Hamburg (Kreisfreie Stadt)	Hamburg	1853935	810904	3737	437396	2015	2.8	82.2	
 Braunschweig (Kreisfreie Stadt)	Niedersachsen	248823	111122	536	446590	2154	0.0	73.5	
 Salzgitter (Kreisfreie Stadt)	Niedersachsen	103694	52021	227	501678	2189	0.0	83.3	
 Wolfsburg (Kreisfreie Stadt)	Niedersachsen	123949	59593	255	480786	2057	3.3	83.3	
@@ -127,7 +127,7 @@ Nienburg (Weser) (Landkreis)	Niedersachsen	121773	58031	273	476550	2241	0.0	100.
 Schaumburg (Landkreis)	Niedersachsen	158108	80272	308	507703	1948	0.0	72.7	
 Celle (Landkreis)	Niedersachsen	179915	82613	261	459177	1450	0.0	70.0	
 Cuxhaven (Landkreis)	Niedersachsen	199603	90939	353	455599	1768	0.0	92.9	
-Harburg (Landkreis)	Niedersachsen	257548	120394	313	467462	1215	3.1	87.5	
+Harburg (Landkreis)	Niedersachsen	257548	120394	313	467462	1215	0.0	87.5	
 Lüchow-Dannenberg (Landkreis)	Niedersachsen	48472	21706	71	447804	1464	0.0	75.0	
 Lüneburg (Landkreis)	Niedersachsen	185129	85863	262	463800	1415	0.0	89.2	
 Osterholz (Landkreis)	Niedersachsen	115054	53246	124	462791	1077	0.0	100.0	
@@ -323,7 +323,7 @@ Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127919	62101	206	485471	1610	0.0	95.
 Dachau (Landkreis)	Bayern	155449	85619	287	550785	1846	0.0	90.3	
 Ebersberg (Landkreis)	Bayern	144562	75004	326	518836	2255	0.0	93.3	
 Eichstätt (Landkreis)	Bayern	133634	69445	168	519665	1257	0.0	85.7	
-Erding (Landkreis)	Bayern	139622	77206	237	552964	1697	0.0	100.0	
+Erding (Landkreis)	Bayern	139622	77206	237	552964	1697	5.3	100.0	
 Freising (Landkreis)	Bayern	181144	91724	272	506359	1501	0.0	100.0	
 Fürstenfeldbruck (Landkreis)	Bayern	218579	109077	275	499027	1258	10.0	80.0	
 Garmisch-Partenkirchen (Landkreis)	Bayern	88232	40418	172	458087	1949	3.4	67.8	
