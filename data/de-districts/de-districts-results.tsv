@@ -35,7 +35,7 @@ Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	132802	700	387986	2045	2.6	8
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	29085	218	401388	3008	0.0	90.8	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	51198	354	520521	3599	0.0	82.1	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	27853	226	491416	3987	0.0	41.7	
-Potsdam (Kreisfreie Stadt)	Brandenburg	183154	81203	295	443359	1610	1.5	82.1	
+Potsdam (Kreisfreie Stadt)	Brandenburg	183154	81203	295	443359	1610	0.0	82.1	
 Barnim (Landkreis)	Brandenburg	188835	69749	404	369364	2139	0.0	100.0	
 Dahme-Spreewald (Landkreis)	Brandenburg	175834	80464	454	457613	2581	0.0	80.6	
 Elbe-Elster (Landkreis)	Brandenburg	100317	50523	456	503633	4545	0.0	66.7	
@@ -107,8 +107,8 @@ Saale-Holzland-Kreis (Landkreis)	Thüringen	82513	38169	262	462581	3175	12.5	62.
 Saale-Orla-Kreis (Landkreis)	Thüringen	79030	34674	356	438744	4504			
 Greiz (Landkreis)	Thüringen	96102	39673	456	412821	4744	0.0	75.0	
 Altenburger Land (Landkreis)	Thüringen	87807	40666	543	463129	6184	0.0	71.9	
-Hamburg (Kreisfreie Stadt)	Hamburg	1853935	811011	3747	437453	2021	3.0	82.8	
-Braunschweig (Kreisfreie Stadt)	Niedersachsen	248823	111135	544	446642	2186	0.0	72.0	
+Hamburg (Kreisfreie Stadt)	Hamburg	1853935	811011	3747	437453	2021	2.8	82.6	
+Braunschweig (Kreisfreie Stadt)	Niedersachsen	248823	111135	544	446642	2186	0.0	71.2	
 Salzgitter (Kreisfreie Stadt)	Niedersachsen	103694	52029	227	501755	2189	0.0	83.3	
 Wolfsburg (Kreisfreie Stadt)	Niedersachsen	123949	59594	255	480794	2057	3.3	86.7	
 Gifhorn (Landkreis)	Niedersachsen	177919	83244	560	467875	3147	0.0	80.0	
